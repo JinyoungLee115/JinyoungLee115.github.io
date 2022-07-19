@@ -5,7 +5,7 @@ subtitle: -
 ---
 
 
-<h2>Temporal Refinement Network <br> and Channel-Wise Gating Methods <br> for Real-Time Speech Enhancement</h2>
+<h2>Temporal Refinement Network and <br> Channel-Wise Gating Methods for <br> Real-Time Speech Enhancement</h2>
 Sumbmitted to IEEE ACCESS<br>
 Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
 <h4>Audio Samples</h4>
@@ -17,9 +17,8 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -34,7 +33,7 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
 <tbody>
   <tr>
     <td class="tg-0lax">1</td>
-    <td><audio controls="" preload="none"><source src="./assets/samples/clean/p232_007.wav" width='200'></audio></td>
+    <td><audio control styles="width: 200px;" preload="none"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/noisy/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/DEMUCS/p232_007_enhanced.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/proposed/p232_007_0.wav"></audio></td>
