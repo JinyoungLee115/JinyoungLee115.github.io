@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: home
-title: Temporal Refinement Network and Channel-Wise Gating Methods for Real-Time Speech Enhancement
-subtitle: Jinyoung Lee and Hong-Goo Kang
---- -->
+title: -
+subtitle: -
+---
 
 
 <!-- <h1>Demo page</h1> -->
