@@ -17,8 +17,8 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:center;vertical-align:top}
-.tg .tg-1wig{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:center;vertical-align:center}
+.tg .tg-1wig{font-weight:bold;text-align:center;vertical-align:center}
 </style>
 <table class="tg">
 <thead>
@@ -33,7 +33,7 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
 <tbody>
   <tr>
     <td class="tg-0lax">1</td>
-    <td><audio control styles="width: 200px;" preload="none"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
+    <td><audio controls="" preload="none"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/noisy/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/DEMUCS/p232_007_enhanced.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/proposed/p232_007_0.wav"></audio></td>
