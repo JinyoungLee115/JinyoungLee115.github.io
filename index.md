@@ -68,3 +68,6 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
   </tr>
 </tbody>
 </table>
+
+<br>DEMUCS samples were obtained by 'dns48', a pretrained model from https://github.com/facebookresearch/denoiser.
+
