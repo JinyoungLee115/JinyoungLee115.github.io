@@ -87,7 +87,7 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
     <th class="tg-1wig">Clean</th>
     <th class="tg-1wig">Noisy</th>
     <th class="tg-1wig">DEMUCS</th>
-    <th class="tg-1wig">Proposed</th>
+    <th class="tg-1wig">Proposed2</th>
   </tr>
 </thead>
 <tbody>
