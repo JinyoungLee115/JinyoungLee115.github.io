@@ -33,7 +33,7 @@ Authors: Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang
 <tbody>
   <tr>
     <td class="tg-0lax">1</td>
-    <td><audio controls="" preload="none"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
+    <td><audio controls style="width: 150px;"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/noisy/p232_007.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/DEMUCS/p232_007_enhanced.wav"></audio></td>
     <td><audio controls="" preload="none"><source src="./assets/samples/proposed/p232_007_0.wav"></audio></td>
