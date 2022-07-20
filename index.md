@@ -5,7 +5,7 @@ subtitle: -
 ---
 
 
-<h3>Temporal Refinement Network and Channel-Wise Gating Methods for Real-Time Speech Enhancement</h3>
+<h3>Real-Time Neural Speech Enhancement based on Temporal Refinement Network and Channel-Wise Gating Methods</h3>
 Sumbmitted to IEEE ACCESS<br><br>
 
 <h4>Authors</h4>
