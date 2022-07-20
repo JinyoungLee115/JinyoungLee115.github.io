@@ -34,21 +34,21 @@ Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang<br><br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">bus, 17.5 dB</td>
+    <td class="tg-0lax">bus<br>17.5 dB</td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/clean/p232_065.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/noisy/p232_065.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/DEMUCS/p232_065_enhanced.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/proposed/p232_065_0.wav"></audio></td>
   </tr>
   <tr>
-    <td class="tg-0lax">cafe, 12.5 dB</td>
+    <td class="tg-0lax">cafe<br>12.5 dB</td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/clean/p232_007.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/noisy/p232_007.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/DEMUCS/p232_007_enhanced.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/proposed/p232_007_0.wav"></audio></td>
   </tr>
   <tr>
-    <td class="tg-0lax">living, 7.5 dB</td>
+    <td class="tg-0lax">living<br>7.5 dB</td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/clean/p232_013.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/noisy/p232_013.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/DEMUCS/p232_013_enhanced.wav"></audio></td>
@@ -62,7 +62,7 @@ Jinyoung Lee (jylee@dsp.yonsei.ac.kr) and Hong-Goo Kang<br><br>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/proposed/p232_053_0.wav"></audio></td>
   </tr> -->
   <tr>
-    <td class="tg-0lax">office, 2.5 dB</td>
+    <td class="tg-0lax">office<br>2.5 dB</td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/clean/p232_121.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/noisy/p232_121.wav"></audio></td>
     <td><audio controls style="width: 150px;"><source src="./assets/samples/DEMUCS/p232_121_enhanced.wav"></audio></td>
